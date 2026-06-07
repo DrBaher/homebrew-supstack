@@ -3,8 +3,8 @@ require "language/node"
 class Supstack < Formula
   desc "Evidence-based supplement intelligence — CLI and MCP server"
   homepage "https://supstack.me/developers/cli"
-  url "https://registry.npmjs.org/@supstack/cli/-/cli-0.14.0.tgz"
-  sha256 "720719191f0590b40472ebe0a7f533e25a17f08f6db7314d8df2216e943414fd"
+  url "https://registry.npmjs.org/@supstack/cli/-/cli-0.16.0.tgz"
+  sha256 "aab0b09cbc9a1ff5084e2358f011bc56fabf232b1d58a252753cc4ed00d97dc8"
   license "MIT"
 
   depends_on "node"
