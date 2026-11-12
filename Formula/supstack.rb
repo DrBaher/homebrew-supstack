@@ -2,7 +2,7 @@ class Supstack < Formula
   desc "Evidence-based supplement intelligence: CLI and MCP server"
   homepage "https://supstack.me/developers/cli"
   url "https://registry.npmjs.org/@supstack/cli/-/cli-0.19.1.tgz"
-  sha256 ""
+  sha256 "9f253ed6e5f026972ffe4e53758f1c85b11af42e0ba5b6bbeee17983543977d9"
   license "MIT"
 
   depends_on "node"
